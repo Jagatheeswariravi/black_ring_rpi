@@ -1,0 +1,7 @@
+path: content/drive/MyDrive/data  # dataset root dir
+train: content/drive/MyDrive/data/images/train # train images (relative to 'path')
+val : content/drive/MyDrive/data/images/train
+# Classes
+names:
+  0 : OK
+  1 : Not OK
